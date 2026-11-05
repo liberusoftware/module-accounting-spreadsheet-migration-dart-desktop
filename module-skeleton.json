@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-spreadsheet-migration-dart-desktop",
+  "capabilityKey": "liberusoftware/module-accounting-spreadsheet-migration",
+  "presentation": "dart-desktop",
+  "package": "module_accounting_spreadsheet_migration_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/accounting/nextjs/spreadsheet-migration.md",
+  "presentationPlan": "projects/accounting/features/spreadsheet-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
